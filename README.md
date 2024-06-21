@@ -27,8 +27,10 @@ __Fork the Repository__
 Please ensure your code follows the repository's coding standards and includes comments for clarity.
 
 
-__Acknowledgements__
+__Acknowledgements :__
+
 __Striver (Raj Vikramaditya):__ For creating the comprehensive A-Z DSA sheet.
+
 __Community Contributors:__ For their valuable input and optimizations.
 License
 
