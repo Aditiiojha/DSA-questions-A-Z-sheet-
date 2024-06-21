@@ -25,3 +25,15 @@ __Fork the Repository__
 4.Open a Pull Request
 
 Please ensure your code follows the repository's coding standards and includes comments for clarity.
+
+
+__Acknowledgements__
+__Striver (Raj Vikramaditya):__ For creating the comprehensive A-Z DSA sheet.
+__Community Contributors:__ For their valuable input and optimizations.
+License
+
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+Feel free to use this repository to enhance your DSA skills and prepare for your coding interviews. Happy coding! 🚀
