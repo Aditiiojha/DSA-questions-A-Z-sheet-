@@ -4,7 +4,7 @@
 using namespace std;
 
 /* 
-Brute force approach: Traverse the array and keep track of the maximum value found so far.
+Brute force approach: Sort the array in ascending order and then return nums[n-1].
 */
 
 int maxvalue(vector<int>& nums) {
